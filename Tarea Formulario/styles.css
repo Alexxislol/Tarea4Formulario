@@ -1,0 +1,129 @@
+.container {  
+    width: 500px;
+    height: 679px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(95, 173, 165);
+    border-radius: 15px;
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: auto;
+} 
+
+.divregis{
+    position: absolute;
+    top: 70px;
+    left: 690px;
+}
+
+.DPI{
+    position: absolute;
+    top: 220px;
+    left: 510px;
+}
+
+.NOMBRE{
+    position: absolute;
+    top: 320px;
+    left: 510px;
+}
+
+.APELLIDO{
+    position: absolute;
+    top: 420px;
+    left: 510px;
+}
+
+.DIRECCION{
+    position: absolute;
+    top: 520px;
+    left: 510px;
+}
+
+.TELEFONO{
+    position: absolute;
+    top: 220px;
+    left: 800px;
+}
+
+.SEMESTRE{
+    position: absolute;
+    top: 320px;
+    left: 800px;
+}
+
+.FECHA{
+    position: absolute;
+    top: 420px;
+    left: 800px;
+}
+
+.CURSO{
+    position: absolute;
+    top: 520px;
+    left: 800px;
+}
+
+.txtnom{
+    position: absolute;
+    top: 300px;
+    left: 510px;
+}
+
+.txtapell{
+    position: absolute;
+    top: 400px;
+    left: 510px;
+}
+
+.txtdirec{
+    position: absolute;
+    top: 500px;
+    left: 510px;
+}
+
+.txtsemes{
+    position: absolute;
+    top: 300px;
+    left: 800px;
+}
+
+.txtfecha{
+    position: absolute;
+    top: 400px;
+    left: 800px;
+}
+
+.txtcurso{
+    position: absolute;
+    top: 500px;
+    left: 800px;
+}
+
+.txtdpi{
+    position: absolute;
+    top: 200px;
+    left: 510px;
+}
+
+.txttel{
+    position: absolute;
+    top: 200px;
+    left: 800px;
+}
+
+.btnGuardar{
+    position: absolute;
+    top: 600px;
+    left: 800px;
+}
+
+.btnAtras{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+
+
+
+
